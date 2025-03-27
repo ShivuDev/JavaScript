@@ -15,6 +15,7 @@ let age = 18
 let isLoggedIn = false
 let state;
 
+
 // number => 2 to power 53
 // bigint
 // string => ""
@@ -28,3 +29,4 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+console.log(typeof symbol);
