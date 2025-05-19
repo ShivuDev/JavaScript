@@ -1,11 +1,11 @@
 # JavaScript Learning Journey 🚀
 
 Welcome to my JavaScript learning repository!  
-I'm currently following the **CodeAurChai JavaScript series** by **Hitesh Choudhary** on YouTube and practicing hands-on coding using **GitHub Codespaces**, a cloud-based development environment.
+I'm currently following the **Chai aur Code JavaScript series** by **Hitesh Choudhary** on YouTube and practicing hands-on coding using **GitHub Codespaces**, a cloud-based development environment.
 
 ## 📚 Learning Source
 
-- 📺 YouTube Playlist: [JavaScript - CodeAurChai by Hitesh Choudhary](https://www.youtube.com/@HiteshChoudhary)
+- 📺 YouTube Playlist: [JavaScript - Chai aur Code by Hitesh Choudhary](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=G5hed55LzVH9h5dx)
 - 🎓 Focus: JavaScript fundamentals, project,and more.
 
 ## 💻 Development Setup
@@ -33,7 +33,7 @@ I'm using **GitHub Codespaces** for a smooth and accessible development experien
 - [LinkedIn – Shivakumaraswamy P](https://www.linkedin.com/in/shivakumaraswamyp)
 ## 🙌 Thanks
 
-Big thanks to **Hitesh Choudhary** and the **CodeAurChai community** for making learning fun and practical.
+Big thanks to **Hitesh Choudhary** and the **Chai aur Code community** for making learning fun and practical.
 
 ---
 
